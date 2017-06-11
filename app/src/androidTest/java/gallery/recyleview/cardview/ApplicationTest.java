@@ -1,4 +1,4 @@
-package info.androidhive.cardview;
+package gallery.recyleview.cardview;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
